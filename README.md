@@ -19,7 +19,8 @@ The system utilizes a decoupled, event-driven architecture:
 * Backend: n8n
 * <img width="937" height="531" alt="image" src="https://github.com/user-attachments/assets/d4af49fa-0124-4ca5-b1f1-525d2f4fe700" />
 
-* <img width="737" height="336" alt="image" src="https://github.com/user-attachments/assets/6ccd91f9-8800-41c1-a52f-914e3cb00d3e" />
+* <img width="734" height="332" alt="image" src="https://github.com/user-attachments/assets/8e4e5c64-e277-4816-aef5-5a6f444a5363" />
+
 
 ## 📊 Evaluation & Metrics
 * **North Star Metric:** Reduce Time-to-Account-Open 
