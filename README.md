@@ -1,3 +1,5 @@
+My Linkedin: https://www.linkedin.com/in/aishi-mahapatra-4638178/
+
 # Agentic KYC FastPass
 
 An automated, multi-agent orchestration system that handles end-to-end customer onboarding by autonomously extracting document data, validating identities, and performing real-time quality checks.
