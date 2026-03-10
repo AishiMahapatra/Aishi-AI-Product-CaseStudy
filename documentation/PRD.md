@@ -26,8 +26,9 @@ An automated, multi-agent orchestration system that handles end-to-end customer 
 
 **Privacy & Bias:** The system implements PII redaction and is audited for demographic bias in the manual review queue. 
 
-5. Roadmap
+## 5. Roadmap
 * **MVP:** Approve low-risk retail customers with US Driver’s Licenses only (6-8 weeks).
 * **Phase 2:** Support for other US Gov IDs and Utility Bills (8-10 weeks).
 
-6. Detaild PRD Link: https://docs.google.com/document/d/17NzzgnugslPehR4gtPcdnhAXYEz0Ly6gaXg40buI0tM/edit?tab=t.0#heading=h.h5j7feud39z1 
+## 6. Detaild PRD Link (Google Doc)
+https://docs.google.com/document/d/17NzzgnugslPehR4gtPcdnhAXYEz0Ly6gaXg40buI0tM/edit?tab=t.0#heading=h.h5j7feud39z1 
