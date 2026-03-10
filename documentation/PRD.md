@@ -32,3 +32,11 @@ An automated, multi-agent orchestration system that handles end-to-end customer 
 
 ## 6. Detaild PRD Link (Google Doc)
 https://docs.google.com/document/d/17NzzgnugslPehR4gtPcdnhAXYEz0Ly6gaXg40buI0tM/edit?tab=t.0#heading=h.h5j7feud39z1 
+
+## 7. Proof of Concept Artifacts
+Frontend: https://v0-kyc-landing-page-2b.vercel.app/
+Backend: n8n 
+<img width="935" height="529" alt="image" src="https://github.com/user-attachments/assets/28b738cf-4d2c-4fa0-a214-1e2cc6f10649" />
+<img width="737" height="336" alt="image" src="https://github.com/user-attachments/assets/4105cb05-47e2-4cf1-baa0-9069aeb26043" />
+
+
