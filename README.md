@@ -14,10 +14,12 @@ The system utilizes a decoupled, event-driven architecture:
 * **Orchestration:** n8n (Multi-agent workflow logic)
 * **Reasoning:** OpenAI GPT-4o (Vision & Extraction)
 
-### Multi-Agent Flow
-1. **Validator Agent:** Inspects image quality (glare/blur/framing).
-2. **Extraction Agent:** Converts ID images into structured JSON data.
-3. **Evaluation Agent:** Scores the output based on the **HHH (Helpful, Honest, Harmless) Framework** to ensure data integrity.
+## Proof of Concept Artifacts
+* Frontend: V0 https://v0-kyc-landing-page-2b.vercel.app/
+* Backend: n8n
+* <img width="937" height="531" alt="image" src="https://github.com/user-attachments/assets/d4af49fa-0124-4ca5-b1f1-525d2f4fe700" />
+
+* <img width="737" height="336" alt="image" src="https://github.com/user-attachments/assets/6ccd91f9-8800-41c1-a52f-914e3cb00d3e" />
 
 ## 📊 Evaluation & Metrics
 * **North Star Metric:** Reduce Time-to-Account-Open from 72 hours to <10 minutes.
