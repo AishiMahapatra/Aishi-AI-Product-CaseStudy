@@ -22,12 +22,13 @@ The system utilizes a decoupled, event-driven architecture:
 * <img width="737" height="336" alt="image" src="https://github.com/user-attachments/assets/6ccd91f9-8800-41c1-a52f-914e3cb00d3e" />
 
 ## 📊 Evaluation & Metrics
-* **North Star Metric:** Reduce Time-to-Account-Open from 72 hours to <10 minutes.
+* **North Star Metric:** Reduce Time-to-Account-Open 
 * **Accuracy:** Target >95% extraction precision for government-issued IDs (US Driving Licenses for MVP)
 * **Safety:** Integrated HHH evaluation agent to prevent hallucinated data fields.
 
 ## 📂 Project Structure
 * `/documentation`: Full Product Requirements Document (PRD).
 * `/workflows`: n8n JSON workflow files for backend orchestration.
+* *(Detailed 15-page+ Internal PRD available for review upon request)*.
 
   
