@@ -2,9 +2,6 @@
 
 An automated, multi-agent orchestration system that handles end-to-end customer onboarding by autonomously extracting document data, validating identities, and performing real-time quality checks.
 
-## 🎥 Product Demo
-[Link to your Tella Video Here]
-*Watch the multi-agent loop handle a blurry ID upload and perform data extraction in real-time.*
 
 ## 🚀 The Problem
 Traditional KYC (Know Your Customer) in banking is high-friction, often taking up to 72 hours for manual review. This leads to high drop-off rates and increased operational costs. Rule-based systems fail on "unstructured data" like blurry ID photos; Agentic AI "plans" a recovery by asking the user for specific corrections.
