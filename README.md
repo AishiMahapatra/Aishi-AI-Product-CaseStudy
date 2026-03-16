@@ -29,8 +29,8 @@ The system utilizes a decoupled, event-driven architecture:
 * **Safety:** Integrated HHH evaluation agent to prevent hallucinated data fields.
 
 ## 📂 Project Structure
-* `/documentation`: Full Product Requirements Document (PRD).
-* `/workflows`: n8n JSON workflow files for backend orchestration.
-* *(Detailed 15-page+ Internal PRD available for review upon request)*.
+* `/documentation`: Full Product Requirements Document (PRD).* *(Detailed 15-page+ Internal PRD available for review upon request)*.
+* n8n JSON workflow file for backend orchestration is included in this folder.
+
 
   
