@@ -40,6 +40,8 @@ https://docs.google.com/document/d/17NzzgnugslPehR4gtPcdnhAXYEz0Ly6gaXg40buI0tM/
 Frontend: https://v0-kyc-landing-page-2b.vercel.app/
 Backend: n8n 
 <img width="935" height="529" alt="image" src="https://github.com/user-attachments/assets/28b738cf-4d2c-4fa0-a214-1e2cc6f10649" />
-<img width="737" height="336" alt="image" src="https://github.com/user-attachments/assets/4105cb05-47e2-4cf1-baa0-9069aeb26043" />
+<img width="754" height="443" alt="image" src="https://github.com/user-attachments/assets/c8cd8541-5d6f-4db9-a96f-591488de0ae3" />
+
+
 
 
