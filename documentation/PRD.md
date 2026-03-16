@@ -9,9 +9,11 @@ Traditional KYC (Know Your Customer) in banking is high-friction, often taking u
 An automated, multi-agent orchestration system that handles end-to-end customer onboarding. [cite: 4]
 
 ### Key Components
-* **Image Quality Validator Agent:** Detects glare, blur, and framing issues using Vision LLMs. [cite: 28, 55]
-* **Document Extraction Agent:** Vision-based data extraction from government IDs with >95% accuracy. [cite: 29]
-* **Deterministic Decision Journal:** Provides a clear audit trail for every automated approval or flag to meet SEC/FINRA standards. 
+* **Orchestrator Agent:** Determines if the name on the driving license uploaded matches with the user name, if so calls the Image Quality Validator Agent to verify the image quality
+* * **Document Extraction Agent:** Vision-based data extraction from government IDs with >95% accuracy. 
+*  **Image Quality Validator Agent:** Detects glare, blur, and framing issues using Vision LLMs
+
+
 
 ## 3. Core Metrics
 *North Star Metric:** Reduce Time-to-Account-Open from 72 hours to <10 minutes.
@@ -20,9 +22,10 @@ An automated, multi-agent orchestration system that handles end-to-end customer 
 ## 4. Risk Assessment & Responsible AI
 | Component | Risk Level | Mitigation Strategy |
 | :--- | :--- | :--- |
+| Orchestrator Agent | Low | If the name on driving license doesnt match the user name, there is no need to validate the image quality of the driving license
 | Image Validation | Low | Using Vision LLMs to detect visual artifacts. 
 | Document Extraction | Low | Manual verification for data fields; >[cite_start]95% accuracy goal. 
-| Self-Correction | High | [cite_start]Routing to human-in-the-loop if automation fails 3 times. 
+
 
 **Privacy & Bias:** The system implements PII redaction and is audited for demographic bias in the manual review queue. 
 
